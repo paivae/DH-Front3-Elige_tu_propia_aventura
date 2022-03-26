@@ -11,5 +11,5 @@ En este repositorio se puede encontrar una actividad de la materia de frontend 3
 Visita previa: [Pulse Aquí](https://paivae.github.io/DH-Front3-Elige_tu_propia_aventura/ "Visitar la web").
 
 ### Vista previa
-![preview](https://paivae.github.io/DH-Design_Thinking/docs/screen.png)
+![preview](https://raw.githubusercontent.com/paivae/DH-Front3-Elige_tu_propia_aventura/master/docs/screen.png)
 
