@@ -31,8 +31,7 @@ class App extends Component {
       historia.opciones.a == "FIN." || historia.opciones.a == "FIN"
         ? true
         : false;
-    console.log(historia.opciones.a);
-    console.log(gameover);
+        
     this.setState({
       aventura: historia,
       gameOver: gameover,
